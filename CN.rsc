@@ -13,6 +13,7 @@ add list=CN address=1.80.0.0/12 comment=AS4809
 add list=CN address=1.116.0.0/15 comment=AS4809
 add list=CN address=1.118.2.0/24 comment=AS4809
 add list=CN address=1.118.32.0/22 comment=AS4809
+add list=CN address=1.118.36.0/24 comment=AS4809
 add list=CN address=1.119.0.0/17 comment=AS4809
 add list=CN address=1.119.128.0/18 comment=AS4809
 add list=CN address=1.119.192.0/20 comment=AS4809
