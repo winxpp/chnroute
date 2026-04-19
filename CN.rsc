@@ -243,10 +243,11 @@ add list=CN address=43.109.100.0/23 comment=AS4809
 add list=CN address=43.109.102.0/24 comment=AS4809
 add list=CN address=43.109.105.0/24 comment=AS4809
 add list=CN address=43.109.107.0/24 comment=AS4809
+add list=CN address=43.109.111.0/24 comment=AS4809
 add list=CN address=43.109.112.0/24 comment=AS4809
 add list=CN address=43.109.114.0/23 comment=AS4809
 add list=CN address=43.109.116.0/23 comment=AS4809
-add list=CN address=43.109.135.0/24 comment=AS4809
+add list=CN address=43.109.134.0/23 comment=AS4809
 add list=CN address=43.136.0.0/13 comment=AS4809
 add list=CN address=43.144.0.0/15 comment=AS4809
 add list=CN address=43.176.0.0/14 comment=AS4809
